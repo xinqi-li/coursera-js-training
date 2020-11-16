@@ -1,0 +1,33 @@
+.nav div {
+	text-align: center;
+	border-color: black;
+}
+#navbar_menu {
+/*	background-color: grey;*/
+	margin: 0px;
+	padding: 0px;
+}
+li {
+	border: 1px solid;
+	
+}
+li:hover {
+	background-color: pink;
+}
+#navbar_list {
+	margin: 0px;
+
+}
+h1+div {
+	/*background-color: pink;*/
+}
+.item {
+	margin: 0 auto 10px auto;
+	padding: 10px;
+	background-color: pink;
+	position: relative;
+}
+.item_title {
+	font-weight: bold;
+	font-size: 1.5em;
+}
